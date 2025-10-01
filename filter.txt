@@ -1,11 +1,16 @@
 ! Title: Dofferino Custom AD Filter
 www.mgeko.cc###radio_content
 www.mgeko.cc###filter-body
-www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(3) > div:nth-of-type(2)
-www.mgeko.cc##div:nth-of-type(7)
-www.mgeko.cc###dl-banner-728x90
 www.mgeko.cc###bg-ssp-9015-635555446813 > div
 www.mgeko.cc###chapter-article > div
 www.mgeko.cc###bg-ssp-8232-875881632791 > div
 www.mgeko.cc##.ad-container
 www.mgeko.cc##.nsad--auto.nsad
+www.mgeko.cc##.content-wrap.page-in > div
+www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(1)
+www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(2)
+www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(3)
+www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(4)
+www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(5)
+www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(6)
+www.mgeko.cc##.content-wrap.page-in > div:nth-of-type(7)
